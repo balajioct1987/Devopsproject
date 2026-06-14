@@ -1,3 +1,7 @@
- this is file from local for merger testing
+<<<<<<< HEAD
+
 Files should be mergered
 files should not show conflict
+=======
+This is merger files for testing from online
+>>>>>>> 3b3ccf7e1e71707ec68a1ab6be51e47332eb1685
